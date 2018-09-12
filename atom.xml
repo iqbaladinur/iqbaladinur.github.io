@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://iqbaladinur.github.io/"/>
-  <updated>2018-08-30T23:51:45.805Z</updated>
+  <updated>2018-09-12T14:26:00.701Z</updated>
   <id>https://iqbaladinur.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Designing My Own Curriculum Vitae</title>
+    <link href="https://iqbaladinur.github.io/2018/09/12/Designing-My-Own-Curriculum-Vitae/"/>
+    <id>https://iqbaladinur.github.io/2018/09/12/Designing-My-Own-Curriculum-Vitae/</id>
+    <published>2018-09-12T12:59:57.000Z</published>
+    <updated>2018-09-12T14:26:00.701Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Wed Sep 12 2018 21:26:00 GMT+0700 (SE Asia Standard Time) --><h2 id="Introducing"><a href="#Introducing" class="headerlink" title="Introducing"></a>Introducing</h2><p>Last two days i spent time to designing my own <a href="https://iqbaladinurmansyah.ostryan.com" target="_blank" rel="noopener">Curriculum Vitae</a>. I decided to go without any ui framework (js/css) since,<br>I don’t very close into native css. First time i learn into web development i use bootstrap so unsuprisingly if i don’t really understand css. Basically my background is backend for the first career in web development. But my lastest job on an awesome startup is front-end dev, i got plenty of time to get deeper on frontend environtment.</p><p>First try, i directly write my design concept in html and css. here the result:</p><img src="/2018/09/12/Designing-My-Own-Curriculum-Vitae/first_design.jpg" title="firs design"><p><br></p><p style="text-align:center">Freak enough hahaha.</p><p>My concept is single page and full page, no scroll. I choose to use fixed and absolute postion for the content.<br>Here is my final result:</p><img src="/2018/09/12/Designing-My-Own-Curriculum-Vitae/design%20cv%202.png" title="final"><p><br><br>Of course for the demo you can visit <a href="https://iqbaladinurmansyah.ostryan.com" target="_blank" rel="noopener">my profile link</a>. Please leave me comments, feedback will be very good for my progress.</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Sep 12 2018 21:26:00 GMT+0700 (SE Asia Standard Time) --&gt;&lt;h2 id=&quot;Introducing&quot;&gt;&lt;a href=&quot;#Introducing&quot; class=&quot;headerlink&quot; 
+      
+    
+    </summary>
+    
+      <category term="uiux" scheme="https://iqbaladinur.github.io/categories/uiux/"/>
+    
+    
+      <category term="ui" scheme="https://iqbaladinur.github.io/tags/ui/"/>
+    
+      <category term="design" scheme="https://iqbaladinur.github.io/tags/design/"/>
+    
+      <category term="ux" scheme="https://iqbaladinur.github.io/tags/ux/"/>
+    
+  </entry>
   
   <entry>
     <title>Getting Started With Hexo</title>
