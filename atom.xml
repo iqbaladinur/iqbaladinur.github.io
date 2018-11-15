@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://iqbaladinur.github.io/"/>
-  <updated>2018-09-12T14:26:00.701Z</updated>
+  <updated>2018-11-15T06:41:49.887Z</updated>
   <id>https://iqbaladinur.github.io/</id>
   
   <author>
@@ -17,19 +17,52 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Bulmin: Free Admin Template Based on Bulma CSS</title>
+    <link href="https://iqbaladinur.github.io/2018/11/15/Bulmin-Free-Admin-Template-Based-on-Bulma-CSS/"/>
+    <id>https://iqbaladinur.github.io/2018/11/15/Bulmin-Free-Admin-Template-Based-on-Bulma-CSS/</id>
+    <published>2018-11-15T06:25:14.000Z</published>
+    <updated>2018-11-15T06:41:49.887Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Thu Nov 15 2018 13:42:07 GMT+0700 (SE Asia Standard Time) --><h2 id="Bulmin-Free-Admin-Template-Based-on-Bulma-CSS"><a href="#Bulmin-Free-Admin-Template-Based-on-Bulma-CSS" class="headerlink" title="Bulmin: Free Admin Template Based on Bulma CSS"></a>Bulmin: Free Admin Template Based on Bulma CSS</h2><p>Hey friend, few days ago i got bored and decided to make an admin template based on bulma css. Here the open source project you can access at <a href="https://github.com/iqbaladinur/bulmin" target="_blank" rel="noopener">Bulmin Repository</a>.</p><p>The project still need so many improvements. I really appreciate if you can join to make this project become awesome.<br>Here is a screenshot i take:</p><img src="/2018/11/15/Bulmin-Free-Admin-Template-Based-on-Bulma-CSS/ss0.png" title="screenshot"><p><br></p><p style="text-align:center">screenshot</p><p>The libraries collections i use:</p><ul><li>bulma css <a href="https://bulma.io" target="_blank" rel="noopener">https://bulma.io</a></li><li>fontawesome <a href="https://fontawesome.com/" target="_blank" rel="noopener">https://fontawesome.com/</a></li><li>frappe charts <a href="https://frappe.io/charts" target="_blank" rel="noopener">https://frappe.io/charts</a></li></ul><p>I hope it is useful.</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Thu Nov 15 2018 13:42:07 GMT+0700 (SE Asia Standard Time) --&gt;&lt;h2 id=&quot;Bulmin-Free-Admin-Template-Based-on-Bulma-CSS&quot;&gt;&lt;a href=
+      
+    
+    </summary>
+    
+      <category term="uiux" scheme="https://iqbaladinur.github.io/categories/uiux/"/>
+    
+      <category term="css" scheme="https://iqbaladinur.github.io/categories/uiux/css/"/>
+    
+    
+      <category term="ui" scheme="https://iqbaladinur.github.io/tags/ui/"/>
+    
+      <category term="design" scheme="https://iqbaladinur.github.io/tags/design/"/>
+    
+      <category term="template" scheme="https://iqbaladinur.github.io/tags/template/"/>
+    
+      <category term="css" scheme="https://iqbaladinur.github.io/tags/css/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Designing My Own Curriculum Vitae</title>
     <link href="https://iqbaladinur.github.io/2018/09/12/Designing-My-Own-Curriculum-Vitae/"/>
     <id>https://iqbaladinur.github.io/2018/09/12/Designing-My-Own-Curriculum-Vitae/</id>
     <published>2018-09-12T12:59:57.000Z</published>
     <updated>2018-09-12T14:26:00.701Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Fri Sep 21 2018 18:50:05 GMT+0700 (SE Asia Standard Time) --><h2 id="Introducing"><a href="#Introducing" class="headerlink" title="Introducing"></a>Introducing</h2><p>Last two days i spent time to designing my own <a href="https://iqbaladinurmansyah.ostryan.com" target="_blank" rel="noopener">Curriculum Vitae</a>. I decided to go without any ui framework (js/css) since,<br>I don’t very close into native css. First time i learn into web development i use bootstrap so unsuprisingly if i don’t really understand css. Basically my background is backend for the first career in web development. But my lastest job on an awesome startup is front-end dev, i got plenty of time to get deeper on frontend environtment.</p><p>First try, i directly write my design concept in html and css. here the result:</p><img src="/2018/09/12/Designing-My-Own-Curriculum-Vitae/first_design.jpg" title="firs design"><p><br></p><p style="text-align:center">Freak enough hahaha.</p><p>My concept is single page and full page, no scroll. I choose to use fixed and absolute postion for the content.<br>Here is my final result:</p><img src="/2018/09/12/Designing-My-Own-Curriculum-Vitae/design%20cv%202.png" title="final"><p><br><br>Of course for the demo you can visit <a href="https://iqbaladinurmansyah.ostryan.com" target="_blank" rel="noopener">my profile link</a>. Please leave me comments, feedback will be very good for my progress.</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Thu Nov 15 2018 13:42:07 GMT+0700 (SE Asia Standard Time) --><h2 id="Introducing"><a href="#Introducing" class="headerlink" title="Introducing"></a>Introducing</h2><p>Last two days i spent time to designing my own <a href="https://iqbaladinurmansyah.ostryan.com" target="_blank" rel="noopener">Curriculum Vitae</a>. I decided to go without any ui framework (js/css) since,<br>I don’t very close into native css. First time i learn into web development i use bootstrap so unsuprisingly if i don’t really understand css. Basically my background is backend for the first career in web development. But my lastest job on an awesome startup is front-end dev, i got plenty of time to get deeper on frontend environtment.</p><p>First try, i directly write my design concept in html and css. here the result:</p><img src="/2018/09/12/Designing-My-Own-Curriculum-Vitae/first_design.jpg" title="firs design"><p><br></p><p style="text-align:center">Freak enough hahaha.</p><p>My concept is single page and full page, no scroll. I choose to use fixed and absolute postion for the content.<br>Here is my final result:</p><img src="/2018/09/12/Designing-My-Own-Curriculum-Vitae/design%20cv%202.png" title="final"><p><br><br>Of course for the demo you can visit <a href="https://iqbaladinurmansyah.ostryan.com" target="_blank" rel="noopener">my profile link</a>. Please leave me comments, feedback will be very good for my progress.</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Fri Sep 21 2018 18:50:05 GMT+0700 (SE Asia Standard Time) --&gt;&lt;h2 id=&quot;Introducing&quot;&gt;&lt;a href=&quot;#Introducing&quot; class=&quot;headerlink&quot; 
+        &lt;!-- build time:Thu Nov 15 2018 13:42:07 GMT+0700 (SE Asia Standard Time) --&gt;&lt;h2 id=&quot;Introducing&quot;&gt;&lt;a href=&quot;#Introducing&quot; class=&quot;headerlink&quot; 
       
     
     </summary>
@@ -52,13 +85,13 @@
     <published>2018-08-30T13:37:27.000Z</published>
     <updated>2018-08-30T23:51:45.805Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Fri Sep 21 2018 18:50:05 GMT+0700 (SE Asia Standard Time) --><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Thu Nov 15 2018 13:42:07 GMT+0700 (SE Asia Standard Time) --><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Fri Sep 21 2018 18:50:05 GMT+0700 (SE Asia Standard Time) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;n
+        &lt;!-- build time:Thu Nov 15 2018 13:42:07 GMT+0700 (SE Asia Standard Time) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;n
       
     
     </summary>
