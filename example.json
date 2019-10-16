@@ -1,0 +1,533 @@
+[
+  {
+    "_id": "5cde6045e953202d609ed229",
+    "title": "Masalah Aki/Accu",
+    "description": "Layanan Panggilan untuk Berbagai Problem Aki/Battery Kendaraan.",
+    "city": "yogyakarta",
+    "problems": [
+      "mesin mati",
+      "mesin tidak bisa menyala",
+      "aki tekor",
+      "gagal starter",
+      "aki rusak",
+      "ganti aki",
+      "aki mati",
+      "beli aki",
+      "toko aki delivery",
+      "beli aki diantar",
+      "jual aki diantar",
+      "toko aki online",
+      "jual aki online"
+    ],
+    "services": [
+      {
+        "_id": "5a53050a814f051839b64687",
+        "title": "Strum Aki",
+        "description": "Layanan Perawatan Aki atau Baterai Kendaraan",
+        "fee_order": 80000,
+        "tag_id": "strumaki",
+        "__v": 0,
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521509853/gambar_aki-02_zdc9vj.png",
+        "detail": "<ol><li>Pengecekan kondisi Aki atau Baterai di lokasi pelanggan.</li><li>Untuk tipe Aki basah, dilakukan pengecekan dan normalisasi volume air Aki.</li><li>Mengisi stroom Aki ketika tegangannya turun di bawah normal.</li></ol>"
+      },
+      {
+        "_id": "5a53050a814f051839b64688",
+        "title": "Jumper Aki",
+        "fee_order": 60000,
+        "tag_id": "jumperaki",
+        "__v": 0,
+        "description": "Menghidupkan Mobil yang Akinya Bermasalah dengan Backup Aki Paralel",
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521508748/jumperaki-02_isfwn6.png",
+        "detail": "<ol><li>Pertolongan pertama saat aki atau baterai tekor atau mati di lokasi mogoknya mobil pelanggan.</li><li>Pengecekan kondisi aki.</li><li>Bantuan menghidupkan mobil dengan menggunakan metode jumper aki.</li><li>Konsumen harus tetap membayar biayanya jika ternyata masalah bukan pada aki-nya, sehingga mesin tetap tidak bisa menyala.</li></ol>"
+      },
+      {
+        "_id": "5a53050a814f051839b64689",
+        "title": "Ganti Aki Mobil",
+        "fee_order": 60000,
+        "tag_id": "gantiaki",
+        "__v": 0,
+        "description": "Layanan Penggantian Aki atau Baterai Mobil",
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521508617/ganti_aku_3-02_nhnwhz.png",
+        "detail": "<ol><li>Layanan penggantian aki/accu atau baterai lama dengan yang baru<span style=\"color: rgb(54, 54, 54);\">&nbsp;di lokasi pelanggan</span>.</li><li>Menerima sistem tukar tambah, dimana aki lama akan menjadi pengurang harga aki baru.</li><li>Tersedia aki atau baterai untuk segala jenis Mobil.</li><li>Harga di atas adalah estimasi. Harga pastinya menyesuaikan dengan jenis dan tipe aki yang dipilih konsumen.</li><li>Tersedia GARANSI dan fasilitas cek kondisi kelistrikan terkait.</li></ol>"
+      },
+      {
+        "_id": "5a53050a814f051839b6469a",
+        "title": "Cek Aki",
+        "fee_order": 50000,
+        "tag_id": "cekaki",
+        "description": "Pengecekan Kondisi Aki atau Baterai Kendaraan",
+        "__v": 0,
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521507556/cek_aki-02_cdewxq.png",
+        "detail": "<ol><li>Cek kelayakan aki atau baterai pada kendaraan pelanggan dengan menggunakan multi meter di lokasi pelanggan.</li><li>Apabila diperlukan, penggunaan jumper dan penggantian aki hanya akan dilakukan atas persetujuan pemilik kendaraan.</li><li>Harga order belum termasuk harga aki baru.</li></ol>"
+      },
+      {
+        "_id": "5d022d59b066350c444e4245",
+        "tag_id": "sewaaki",
+        "title": "Sewa Aki Motor",
+        "description": "Sewa Aki Motor buat yang Kepepet.",
+        "fee_order": 5500,
+        "detail": "<ol><li>Fasilitas sewa aki untuk keperluan darurat Sepeda Motor Anda.</li><li>Harga sewa per hari dihitung per ampere Aki, yakni Rp1.000/ampere.</li></ol>",
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521508617/ganti_aku_3-02_nhnwhz.png",
+        "__v": 0
+      },
+      {
+        "_id": "5d023123b066350c444e4855",
+        "tag_id": "gantiakimotor",
+        "title": "Ganti Aki Motor",
+        "description": "Layanan Penggantian Aki atau Baterai Sepeda Motor",
+        "fee_order": 15000,
+        "detail": "<ol><li>Layanan penggantian aki/accu atau baterai lama dengan yang baru&nbsp;di lokasi pelanggan.</li><li>Menerima sistem tukar tambah, dimana aki lama akan menjadi pengurang harga aki baru.</li><li>Tersedia aki atau baterai untuk segala jenis Sepeda Motor.</li><li>Harga di atas adalah estimasi. Harga pastinya menyesuaikan dengan jenis dan tipe aki yang dipilih konsumen.</li><li>Tersedia GARANSI dan fasilitas cek kondisi kelistrikan terkait.</li></ol><p><br></p>",
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521508617/ganti_aku_3-02_nhnwhz.png",
+        "__v": 0
+      },
+      {
+        "_id": "5d023309b066350c444e54e6",
+        "tag_id": "sewaakimobil",
+        "title": "Sewa Aki Mobil",
+        "description": "Sewa Aki Mobil buat yang Kepepet",
+        "fee_order": 48000,
+        "detail": "<ol><li>Fasilitas sewa aki untuk keperluan darurat Mobil Anda.</li><li>Harga sewa per hari dihitung per ampere Aki, yakni Rp1.000/ampere.</li></ol>",
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521508617/ganti_aku_3-02_nhnwhz.png",
+        "__v": 0
+      }
+    ],
+    "upcoming": false,
+    "color": "#E8BF0E",
+    "image": "https://res.cloudinary.com/hepicar/image/upload/v1558077232/Bengkel_Umum_fpesup.png",
+    "__v": 0
+  },
+  {
+    "_id": "5cde6588e953202d609ed24e",
+    "title": "Cuci Mobil Waterless",
+    "description": "Layanan Panggilan Cuci Mobil TANPA air, menggunakan formula Waterless Wash & Wax Premium",
+    "city": "yogyakarta",
+    "problems": [
+      "kendaraan kotor",
+      "cuci mobil"
+    ],
+    "services": [
+      {
+        "_id": "5d7b55bfa174225c9e779b72",
+        "tag_id": "cucieksteriormobilwaterless",
+        "title": "Cuci Eksterior Mobil Waterless",
+        "description": "Layanan Panggilan Cuci Wash & Wax Eksterior Mobil dengan metode pencucian TANPA menggunakan air (waterless).",
+        "fee_order": 40000,
+        "detail": "<ol><li>Layanan Cuci Mobil TANPA AIR&nbsp;di lokasi pelanggan.</li><li>Menggunakan formula pembersih WATERLESS Wash &amp; Wax&nbsp;berkualitas premium.</li><li>Mencakup pencucian EKSTERIOR (bodi luar) Mobil.</li><li>Layanan ini untuk Mobil berukuran kecil (contoh: brio, march, agya-ayla, jazz, yariz, dan sejenisnya), dan menengah (avanza-xenia, ertiga, rush-terios, mobilio, hrv, innova dan sejenisnya).</li></ol>",
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1557286706/Cuci_Tanpa_Air_erlvft.png",
+        "__v": 0
+      },
+      {
+        "_id": "5d7b56cba174225c9e77a035",
+        "tag_id": "cucimobilwaterless",
+        "title": "Cuci Mobil Waterless",
+        "description": "Layanan Panggilan Cuci Wash & Wax Eksterior dan Interior Mobil dengan metode pencucian TANPA menggunakan air (waterless).",
+        "fee_order": 55000,
+        "detail": "<ol><li>Layanan Cuci Mobil TANPA AIR&nbsp;di lokasi pelanggan.</li><li>Menggunakan formula pembersih WATERLESS Wash &amp; Wax&nbsp;berkualitas premium.</li><li>Mencakup pencucian EKSTERIOR (bodi luar) dan pembersihan INTERIOR Mobil.</li><li>Termasuk tindakan mengkilapkan (semir) ban.</li><li>Layanan ini untuk Mobil berukuran kecil (contoh: brio, march, agya-ayla, jazz, yariz, dan sejenisnya), dan menengah (avanza-xenia, ertiga, rush-terios, mobilio, hrv, innova dan sejenisnya).</li></ol>",
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1557286778/Cuci_Tanpa_Air_jg3vpl.png",
+        "__v": 0
+      },
+      {
+        "_id": "5d7b67f2a174225c9e77b102",
+        "tag_id": "cucieksteriormobilbesarwaterless",
+        "title": "Cuci Eksterior Mobil Besar Waterless",
+        "description": "Layanan Panggilan Cuci Wash & Wax Eksterior Mobil Besar dengan metode pencucian TANPA menggunakan air (waterless).",
+        "fee_order": 50000,
+        "detail": "<ol><li>Layanan Cuci Mobil berukuran besar TANPA AIR&nbsp;di lokasi pelanggan.</li><li>Menggunakan formula pembersih WATERLESS Wash &amp; Wax berkualitas premium.</li><li><span style=\"background-color: rgb(250, 250, 250);\">Hanya mencakup pencucian EKSTERIOR (bodi luar) Mobil.</span></li><li>Termasuk tindakan mengkilapkan (semir) ban.</li><li>Layanan ini untuk Mobil berukuran besar seperti Fortuner, Pajero, Serena, Alphard, Camry, dan sejenisnya.</li></ol>",
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1557286706/Cuci_Tanpa_Air_erlvft.png",
+        "__v": 0
+      },
+      {
+        "_id": "5d7b6cdda174225c9e77c07b",
+        "tag_id": "cucimobilbesarwaterless",
+        "title": "Cuci Mobil Besar Waterless",
+        "description": "Layanan Panggilan Cuci Wash & Wax Eksterior dan Interior Mobil Besar dengan metode pencucian TANPA menggunakan air (waterless).",
+        "fee_order": 65000,
+        "detail": "<ol><li>Layanan Cuci Mobil berukuran besar TANPA AIR&nbsp;di lokasi pelanggan.</li><li>Menggunakan formula pembersih WATERLESS Wash &amp; Wax berkualitas premium.</li><li>Mencakup pencucian EKSTERIOR (bodi luar) dan pembersihan INTERIOR Mobil.</li><li>Termasuk tindakan mengkilapkan (semir) ban.</li><li>Layanan ini untuk Mobil berukuran besar seperti Fortuner, Pajero, Serena, Alphard, Camry, dan sejenisnya.</li></ol>",
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1557286706/Cuci_Tanpa_Air_erlvft.png",
+        "__v": 0
+      }
+    ],
+    "upcoming": false,
+    "color": "#089C00",
+    "image": "https://res.cloudinary.com/hepicar/image/upload/v1558078679/Cuci_Waterless_Mobil_r6vziy.png",
+    "__v": 0
+  },
+  {
+    "_id": "5cde6a30e953202d609ed267",
+    "title": "Cuci Mobil Reguler",
+    "description": "Layanan Panggilan Cuci Mobil pakai air, menggunakan formula Wash & Wax Premium (Air disediakan oleh pemesan)",
+    "city": "yogyakarta",
+    "problems": [
+      "kendaraan kotor",
+      "cuci mobil"
+    ],
+    "services": [
+      {
+        "_id": "5d7b4c68a174225c9e778beb",
+        "tag_id": "cucieksteriormobil",
+        "title": "Cuci Eksterior Mobil Reguler",
+        "description": "Layanan Panggilan Cuci Wash & Wax Eksterior Mobil dengan metode pencucian menggunakan air (reguler).",
+        "fee_order": 35000,
+        "detail": "<ol><li>Layanan Cuci Mobil MENGGUNAKAN AIR&nbsp;di lokasi pelanggan.</li><li>Menggunakan formula pembersih Wash &amp; Wax berkualitas premium.</li><li>Hanya mencakup pencucian EKSTERIOR (bodi luar) Mobil.</li><li>Air dan selang disediakan oleh pemilik Mobil.</li><li>Layanan ini untuk Mobil berukuran kecil (contoh: brio, march, agya-ayla, jazz, yariz, dan sejenisnya), dan menengah (avanza-xenia, ertiga, rush-terios, mobilio, hrv, innova dan sejenisnya).</li></ol>",
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1557286469/Cuci_Air_qqnznf.png",
+        "__v": 0
+      },
+      {
+        "_id": "5d7b4f63a174225c9e7790aa",
+        "tag_id": "cucimobilreguler",
+        "title": "Cuci Mobil Reguler",
+        "description": "Layanan Panggilan Cuci Wash & Wax Eksterior dan Interior Mobil dengan metode pencucian menggunakan air (reguler).",
+        "fee_order": 50000,
+        "detail": "<ol><li>Layanan Cuci Mobil MENGGUNAKAN AIR&nbsp;di lokasi pelanggan.</li><li>Menggunakan formula pembersih Wash &amp; Wax berkualitas premium.</li><li>Mencakup pencucian EKSTERIOR (bodi luar) dan pembersihan INTERIOR Mobil.</li><li>Termasuk tindakan mengkilapkan (semir) ban.</li><li>Air dan selang disediakan oleh pemilik Mobil.</li><li>Layanan ini untuk Mobil berukuran kecil (contoh: brio, march, agya-ayla, jazz, yariz, dan sejenisnya), dan menengah (avanza-xenia, ertiga, rush-terios, mobilio, hrv, innova dan sejenisnya).</li></ol>",
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1557286469/Cuci_Air_qqnznf.png",
+        "__v": 0
+      },
+      {
+        "_id": "5d7b6525a174225c9e77ab88",
+        "tag_id": "cucimobilbesarreguler",
+        "title": "Cuci Mobil Besar Reguler",
+        "description": "Layanan Panggilan Cuci Wash & Wax Eksterior dan Interior Mobil Besar dengan metode pencucian menggunakan air (reguler).",
+        "fee_order": 60000,
+        "detail": "<ol><li>Layanan Cuci Mobil berukuran besar MENGGUNAKAN AIR&nbsp;di lokasi pelanggan.</li><li>Menggunakan formula pembersih Wash &amp; Wax berkualitas premium.</li><li>Mencakup pencucian EKSTERIOR (bodi luar) dan pembersihan INTERIOR Mobil.</li><li>Termasuk tindakan mengkilapkan (semir) ban.</li><li>Air dan selang disediakan oleh pemilik Mobil.</li><li>Layanan ini untuk Mobil berukuran besar seperti Fortuner, Pajero, Serena, Alphard, Camry, dan sejenisnya.</li></ol>",
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1557286526/Cuci_Air_i4dzqq.png",
+        "__v": 0
+      },
+      {
+        "_id": "5d7b66e7a174225c9e77b069",
+        "tag_id": "cucieksteriormobilbesarreguler",
+        "title": "Cuci Eksterior Mobil Besar Reguler",
+        "description": "Layanan Panggilan Cuci Wash & Wax Eksterior Mobil Besar dengan metode pencucian menggunakan air (reguler).",
+        "fee_order": 45000,
+        "detail": "<ol><li>Layanan Cuci Mobil berukuran besar MENGGUNAKAN AIR&nbsp;di lokasi pelanggan.</li><li>Menggunakan formula pembersih Wash &amp; Wax berkualitas premium.</li><li><span style=\"background-color: rgb(250, 250, 250); color: rgb(54, 54, 54);\">Hanya mencakup pencucian EKSTERIOR (bodi luar) Mobil.</span></li><li>Termasuk tindakan mengkilapkan (semir) ban.</li><li>Air dan selang disediakan oleh pemilik Mobil.</li><li>Layanan ini untuk Mobil berukuran besar seperti Fortuner, Pajero, Serena, Alphard, Camry, dan sejenisnya.</li></ol>",
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1557286469/Cuci_Air_qqnznf.png",
+        "__v": 0
+      }
+    ],
+    "upcoming": false,
+    "color": "#00239C",
+    "image": "https://res.cloudinary.com/hepicar/image/upload/v1558079175/Cuci_Air_Mobil_x2p4h2.png",
+    "__v": 0
+  },
+  {
+    "_id": "5cde6b69e953202d609ed268",
+    "title": "Cuci Motor",
+    "description": "Layanan Panggilan Cuci Motor, menggunakan formula Waterless Wash & Wax Premium",
+    "city": "yogyakarta",
+    "problems": [
+      "kendaraan kotor",
+      "cuci motor"
+    ],
+    "services": [
+      {
+        "_id": "5cc7af7de1af452fe1c990ee",
+        "tag_id": "cucimotorwaterless",
+        "title": "Cuci Motor Waterless",
+        "description": "Layanan Panggilan Cuci Wash & Wax Motor dengan metode pencucian TANPA menggunakan air (waterless).",
+        "fee_order": 25000,
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1557286661/Cuci_Tanpa_Air_xgrhpb.png",
+        "__v": 0,
+        "detail": "<ol><li>Layanan Cuci Motor TANPA AIR<span style=\"color: rgb(54, 54, 54);\">&nbsp;di lokasi pelanggan</span>.</li><li>Menggunakan formula pembersih WATERLESS Wash &amp; Wax&nbsp;berkualitas Premium.</li><li><span style=\"color: rgb(54, 54, 54);\">Termasuk tindakan mengkilapkan (semir) ban.</span></li><li><span style=\"color: rgb(54, 54, 54);\">Layanan ini untuk Motor berkapasitas mesin kurang dari 200cc.</span></li></ol>"
+      },
+      {
+        "_id": "5cc7b0dde1af452fe1c990ef",
+        "tag_id": "cucimotorair",
+        "title": "Cuci Motor Reguler",
+        "description": "Layanan Panggilan Cuci Wash & Wax Motor dengan metode pencucian menggunakan air (reguler).",
+        "fee_order": 20000,
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1557286640/Cuci_Air_khbrnu.png",
+        "__v": 0,
+        "detail": "<ol><li>Layanan Cuci Motor MENGGUNAKAN AIR <span style=\"color: rgb(54, 54, 54);\">di lokasi pelanggan</span>.</li><li>Menggunakan formula pembersih Wash &amp; Wax&nbsp;berkualitas premium.</li><li>Air dan selang disediakan oleh pemilik Motor.</li><li><span style=\"color: rgb(54, 54, 54);\">Termasuk tindakan mengkilapkan (semir) ban.</span></li><li><span style=\"color: rgb(54, 54, 54);\">Layanan ini untuk Motor berkapasitas mesin kurang dari 200cc.</span></li></ol>"
+      },
+      {
+        "_id": "5cc7b133e1af452fe1c990f0",
+        "tag_id": "cucimogewaterless",
+        "title": "Cuci Moge Waterless",
+        "description": "Layanan Panggilan Cuci Wash & Wax Moge dengan metode pencucian TANPA menggunakan air (waterless).",
+        "fee_order": 35000,
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1557286617/Cuci_Tanpa_Air_uue9ys.png",
+        "__v": 0,
+        "detail": "<ol><li>Layanan Cuci Motor berukuran besar TANPA AIR&nbsp;di lokasi pelanggan.</li><li>Menggunakan formula pembersih WATERLESS Wash &amp; Wax&nbsp;berkualitas premium.</li><li>Termasuk tindakan mengkilapkan (semir) ban.</li><li>Layanan ini untuk Motor berkapasitas mesin 200cc ke atas.</li></ol>"
+      },
+      {
+        "_id": "5cc7b158e1af452fe1c990f1",
+        "tag_id": "cucimogeair",
+        "title": "Cuci Moge Reguler",
+        "description": "Layanan Panggilan Cuci Wash & Wax Moge dengan metode pencucian menggunakan air (reguler).",
+        "fee_order": 30000,
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1557286596/Cuci_Air_ocnxvc.png",
+        "__v": 0,
+        "detail": "<ol><li>Layanan Cuci Motor berukuran besar MENGGUNAKAN AIR&nbsp;di lokasi pelanggan.</li><li>Menggunakan formula pembersih Wash &amp; Wax&nbsp;berkualitas premium.</li><li>Air dan selang disediakan oleh pemilik Motor.</li><li>Termasuk tindakan mengkilapkan (semir) ban.</li><li>Layanan ini untuk Motor berkapasitas mesin 200cc ke atas.</li></ol>"
+      }
+    ],
+    "upcoming": false,
+    "color": "#2172A0",
+    "image": "https://res.cloudinary.com/hepicar/image/upload/v1558080273/Cuci_Motor_wrfcui.png",
+    "__v": 0
+  },
+  {
+    "_id": "5cde8802e953202d609ed3da",
+    "title": "Layanan Darurat/Emergency",
+    "description": "Layanan Panggilan untuk Mengatasi Kondisi Darurat Mobil",
+    "city": "yogyakarta",
+    "problems": [
+      "mobil mogok",
+      "mesin mobil mati",
+      "aki tekor",
+      "derek",
+      "bantuan darurat",
+      "bengkel 24 jam",
+      "bengkel siaga",
+      "mesin mogok",
+      "tidak bisa starter",
+      "ban kempes",
+      "ban bocor"
+    ],
+    "services": [
+      {
+        "_id": "5a53050a814f051839b64688",
+        "title": "Jumper Aki",
+        "fee_order": 60000,
+        "tag_id": "jumperaki",
+        "__v": 0,
+        "description": "Menghidupkan Mobil yang Akinya Bermasalah dengan Backup Aki Paralel",
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521508748/jumperaki-02_isfwn6.png",
+        "detail": "<ol><li>Pertolongan pertama saat aki atau baterai tekor atau mati di lokasi mogoknya mobil pelanggan.</li><li>Pengecekan kondisi aki.</li><li>Bantuan menghidupkan mobil dengan menggunakan metode jumper aki.</li><li>Konsumen harus tetap membayar biayanya jika ternyata masalah bukan pada aki-nya, sehingga mesin tetap tidak bisa menyala.</li></ol>"
+      },
+      {
+        "_id": "5a53050a814f051839b64697",
+        "title": "Cek Kondisi Mesin",
+        "fee_order": 150000,
+        "tag_id": "cekmesin",
+        "description": "Pengecekan Terhadap Bagian (Part) Sistem Permesinan Mobil",
+        "__v": 0,
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521507632/cek_mesin-02_e7zrev.png",
+        "detail": "<ol><li>Pengecekan kenormalan mesin di lokasi pelanggan, mengidentifikasi jenis kerusakan jika ada.</li><li>Pengecekan kondisi busi.</li><li>Pengecekan kondisi aki dan kelistrikan yang terkait.</li><li>Pengecekan kondisi dan level cairan radiator.</li><li>Pengecekan tekanan angin keempat roda.</li><li>Harga order belum termasuk harga penggantian suku cadang dan jasa perbaikan.</li></ol>"
+      },
+      {
+        "_id": "5a53050a814f051839b64698",
+        "title": "Derek Tarik",
+        "fee_order": 150000,
+        "tag_id": "derektarik",
+        "description": "Layanan Derek Mobil (Towing) dengan Cara Ditarik",
+        "__v": 0,
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521508408/derek_tarik-02_wcwtm6.png",
+        "detail": "<ol><li>Mengevakuasi atau memindahkan mobil dengan DITARIK dari lokasi ke bengkel terdekat, atau tempat tujuan yang dikehendaki pelanggan.</li><li>Harga tersebut adalah harga jasa minimal jarak tempuh.</li><li>Harga dapat bertambah, menyesuaikan dengan jarak tempuhnya.</li><li>Estimasi harga akan dimintakan PERSETUJUAN kepada konsumen sebelum pelaksanaan.</li></ol>"
+      },
+      {
+        "_id": "5a53050a814f051839b64699",
+        "title": "Tambal Ban Mobil Tubeless",
+        "fee_order": 30000,
+        "tag_id": "tambaltubeless",
+        "description": "Layanan Perbaikan Ban Mobil Tubeless yang Bocor",
+        "__v": 0,
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521509953/tubeless-02_wktmdq.png",
+        "detail": "<ol><li>Pengecekan tingkat kebocoran pada Ban Mobil Tubeless.</li><li>Perbaikan (Tambal) lubang-lubang pada Ban Mobil.</li><li>Pengisian kembali udara pada Ban Mobil sesuai standar pengaturan dari pabrik.</li><li>Memasangkan kembali Ban Mobil yang telah diperbaiki ke posisi semula.</li><li>Harga Order hanya untuk pengecekan, untuk perbaikan akan dikenakan biaya tambalan per lubang pada Ban Mobil.</li></ol>"
+      },
+      {
+        "_id": "5a837f2c9c29a5465a493b46",
+        "tag_id": "derekgendong",
+        "title": "Derek Gendong",
+        "description": "Layanan Derek Mobil (Towing) dengan Menaikan Mobil ke Atas Truk Derek",
+        "fee_order": 300000,
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521507933/towing_gendong-02_sfae9j.png",
+        "__v": 0,
+        "detail": "<ol><li>Mengevakuasi atau memindahkan mobil dari lokasi ke bengkel terdekat, atau tempat tujuan yang dikehendaki pelanggan.</li><li>Harga tersebut adalah harga jasa minimal jarak tempuh.</li><li>Harga dapat bertambah, menyesuaikan dengan jarak tempuhnya.</li><li>Estimasi harga akan dimintakan PERSETUJUAN kepada konsumen sebelum pelaksanaan.</li></ol>"
+      },
+      {
+        "_id": "5cc7b17ae1af452fe1c990f2",
+        "tag_id": "gantibanserep",
+        "title": "Ganti Ban Serep Mobil",
+        "description": "Layanan Bantuan Memasangkan Ban Pengganti atau Ban Serep Mobil",
+        "fee_order": 30000,
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1557286806/Ganti_Ban_vb99fw.png",
+        "__v": 0,
+        "detail": "<ol><li>Layanan bantuan memasangkan ban pengganti atau ban serep mobil di lokasi pelanggan.</li><li>Mencakup pekerjaan melepas ban lama, lalu memasangkan ban pengganti atau ban serep.</li><li>Tidak termasuk layanan tambal ban.</li></ol>"
+      }
+    ],
+    "upcoming": false,
+    "color": "#CF3B1E",
+    "image": "https://res.cloudinary.com/hepicar/image/upload/v1568380122/Annotation_2019-09-13_200312_cvgr5w.png",
+    "__v": 0
+  },
+  {
+    "_id": "5cfa1469003cc85bc0139f49",
+    "title": "Bengkel Umum Mobil",
+    "description": "Layanan Panggilan terkait Perawatan Berkala dan Perbaikan Mobil",
+    "city": "yogyakarta",
+    "problems": [
+      "bengkel panggilan",
+      "derek panggilan",
+      "spesialis BMW panggilan",
+      "bengkel 24 jam",
+      "servis mobil",
+      "tune up mesin",
+      "ganti oli",
+      "ganti oli mobil"
+    ],
+    "services": [
+      {
+        "_id": "5a53050a814f051839b6468b",
+        "title": "Tune Up Mobil",
+        "description": "Layanan Pengecekan dan Perawatan Mesin Mobil untuk Mengembalikan Performa Standarnya",
+        "fee_order": 150000,
+        "tag_id": "tuneup",
+        "__v": 0,
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521509981/tuneup-02_qifzv4.png",
+        "detail": "<ol><li>Pengecekan kondisi dan semua komponen terkait mesin Mobil.</li><li>Pengukuran performa mesin Mobil.</li><li>Perawatan kondisi komponen-komponen terkait sistem mesin Mobil.</li><li>Perbaikan kerusakan komponen-komponen terkait sistem mesin Mobil.</li><li>Penggantian suku cadang dan komponen-komponen yang aus dan habis masa pakainya.</li><li>Penyetelan kembali pengaturan sistem terkait kinerja mesin Mobil.</li><li>Harga order belum termasuk harga komponen, suku cadang, dan jasa perbaikan.</li></ol>"
+      },
+      {
+        "_id": "5a53050a814f051839b64696",
+        "title": "Ganti Oli Mobil",
+        "fee_order": 60000,
+        "tag_id": "gantioli",
+        "description": "Layanan Penggantian Pelumas (Oli) Mobil",
+        "__v": 0,
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521508716/ganti_oil-02_gsvngv.png",
+        "detail": "<ol><li>Layanan penggantian pelumas (oli) Mobil di lokasi Pelanggan.</li><li>Harga order belum termasuk harga produk pelumas (oli), filter dan bahan habis pakai.</li><li>Merk dan harga oli disepakati antara Pelanggan dan Spesialis HEPICAR sebelum pengerjaan.</li></ol>"
+      },
+      {
+        "_id": "5a53050a814f051839b64697",
+        "title": "Cek Kondisi Mesin",
+        "fee_order": 150000,
+        "tag_id": "cekmesin",
+        "description": "Pengecekan Terhadap Bagian (Part) Sistem Permesinan Mobil",
+        "__v": 0,
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521507632/cek_mesin-02_e7zrev.png",
+        "detail": "<ol><li>Pengecekan kenormalan mesin di lokasi pelanggan, mengidentifikasi jenis kerusakan jika ada.</li><li>Pengecekan kondisi busi.</li><li>Pengecekan kondisi aki dan kelistrikan yang terkait.</li><li>Pengecekan kondisi dan level cairan radiator.</li><li>Pengecekan tekanan angin keempat roda.</li><li>Harga order belum termasuk harga penggantian suku cadang dan jasa perbaikan.</li></ol>"
+      },
+      {
+        "_id": "5a53050a814f051839b64698",
+        "title": "Derek Tarik",
+        "fee_order": 150000,
+        "tag_id": "derektarik",
+        "description": "Layanan Derek Mobil (Towing) dengan Cara Ditarik",
+        "__v": 0,
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521508408/derek_tarik-02_wcwtm6.png",
+        "detail": "<ol><li>Mengevakuasi atau memindahkan mobil dengan DITARIK dari lokasi ke bengkel terdekat, atau tempat tujuan yang dikehendaki pelanggan.</li><li>Harga tersebut adalah harga jasa minimal jarak tempuh.</li><li>Harga dapat bertambah, menyesuaikan dengan jarak tempuhnya.</li><li>Estimasi harga akan dimintakan PERSETUJUAN kepada konsumen sebelum pelaksanaan.</li></ol>"
+      },
+      {
+        "_id": "5a53050a814f051839b6469b",
+        "title": "Spesialis BMW",
+        "fee_order": 200000,
+        "tag_id": "bmw",
+        "description": "Melayani Perawatan dan Perbaikan Khusus Merek Mobil BMW",
+        "__v": 0,
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521507529/bmw-02_mdtzzh.png",
+        "detail": "<ol><li>Tindakan utama layanan ini adalah pengecekan kenormalan mesin <span style=\"color: rgb(54, 54, 54);\">di lokasi pelanggan.</span></li><li>Belum termasuk jika perlu perbaikan kerusakan yang serius.</li><li>Harga dapat menyesuaikan dengan pemberitahuan kepada pihak konsumen sebelumnya.</li><li>Juga melayani perbaikan AC dan kaki-kaki khusus BMW.</li><li>Harga order belum termasuk harga suku cadang dan jasa perbaikan.</li></ol>"
+      },
+      {
+        "_id": "5a837f2c9c29a5465a493b46",
+        "tag_id": "derekgendong",
+        "title": "Derek Gendong",
+        "description": "Layanan Derek Mobil (Towing) dengan Menaikan Mobil ke Atas Truk Derek",
+        "fee_order": 300000,
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521507933/towing_gendong-02_sfae9j.png",
+        "__v": 0,
+        "detail": "<ol><li>Mengevakuasi atau memindahkan mobil dari lokasi ke bengkel terdekat, atau tempat tujuan yang dikehendaki pelanggan.</li><li>Harga tersebut adalah harga jasa minimal jarak tempuh.</li><li>Harga dapat bertambah, menyesuaikan dengan jarak tempuhnya.</li><li>Estimasi harga akan dimintakan PERSETUJUAN kepada konsumen sebelum pelaksanaan.</li></ol>"
+      },
+      {
+        "_id": "5cc7b17ae1af452fe1c990f2",
+        "tag_id": "gantibanserep",
+        "title": "Ganti Ban Serep Mobil",
+        "description": "Layanan Bantuan Memasangkan Ban Pengganti atau Ban Serep Mobil",
+        "fee_order": 30000,
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1557286806/Ganti_Ban_vb99fw.png",
+        "__v": 0,
+        "detail": "<ol><li>Layanan bantuan memasangkan ban pengganti atau ban serep mobil di lokasi pelanggan.</li><li>Mencakup pekerjaan melepas ban lama, lalu memasangkan ban pengganti atau ban serep.</li><li>Tidak termasuk layanan tambal ban.</li></ol>"
+      }
+    ],
+    "upcoming": false,
+    "color": "#CF821E",
+    "image": "https://res.cloudinary.com/hepicar/image/upload/v1558077232/Bengkel_Umum_fpesup.png",
+    "__v": 0
+  },
+  {
+    "_id": "5d7b9009a174225c9e77d6aa",
+    "title": "AC & Radiator Mobil",
+    "description": "Layanan Panggilan Pengecekan Kondisi AC dan Radiator Mobil",
+    "city": "yogyakarta",
+    "problems": [
+      "ac kurang dingin",
+      "ac panas",
+      "radiator bocor",
+      "overheat",
+      "ac bocor",
+      "radiator rusak"
+    ],
+    "services": [
+      {
+        "_id": "5a53050a814f051839b6468c",
+        "title": "Radiator",
+        "description": "Layanan Pengecekan, Perawatan dan Perbaikan Sistem Radiator Mobil",
+        "fee_order": 75000,
+        "tag_id": "radiator",
+        "__v": 0,
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521509372/radiator-02_racjak.png",
+        "detail": "<ol><li>Pengecekan kondisi sistem radiator mobil di lokasi pelanggan.</li><li>Pengecekan level dan penambahan cairan radiator.</li><li>Pengecekan terhadap kebocoran pada komponen-komponen radiator.</li><li>Perbaikan kecil terhadap kerusakan komponen radiator.</li><li>Harga yang tercantum belum termasuk harga suku cadang dan jasa perbaikan berat.</li></ol>"
+      },
+      {
+        "_id": "5a53050a814f051839b6468d",
+        "title": "Cek AC",
+        "description": "Pengecekan Kondisi AC",
+        "fee_order": 50000,
+        "tag_id": "ac",
+        "__v": 0,
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1557410568/ac-02_eajyxd_le5cmf.png",
+        "detail": "<ol><li>Pengecekan seluruh komponen terkait sistem AC mobil di lokasi pelanggan.</li><li>Perbaikan hanya dilakukan atas persetujuan pemilik mobil.</li><li>Harga order belum termasuk harga suku cadang dan jasa perbaikan.</li></ol>"
+      }
+    ],
+    "upcoming": false,
+    "color": "#04AEDC",
+    "image": "https://res.cloudinary.com/hepicar/image/upload/v1558087527/Bengkel_AC_gvtc5h.png",
+    "__v": 0
+  },
+  {
+    "_id": "5d7b9a35a174225c9e77d6c2",
+    "title": "Bengkel Umum Motor",
+    "description": "Layanan Panggilan terkait Perawatan Berkala dan Perbaikan Motor",
+    "city": "yogyakarta",
+    "problems": [
+      "tune up motor",
+      "bengkel motor",
+      "servis motor",
+      "ganti oli motor",
+      "ganti oli"
+    ],
+    "services": [
+      {
+        "_id": "5d7b97cfa174225c9e77d6bc",
+        "tag_id": "tuneupmotorinjeksi",
+        "title": "Tune Up Motor Injeksi",
+        "description": "Layanan Pengecekan dan Perawatan Motor Bermesin Injeksi untuk Mengembalikan Performa Standarnya",
+        "fee_order": 60000,
+        "detail": "<ol><li>Pengecekan kondisi dan semua komponen terkait mesin Motor Injeksi.</li><li>Pengukuran performa mesin Motor Injeksi.</li><li>Perawatan kondisi komponen-komponen terkait sistem mesin Motor Injeksi.</li><li>Perbaikan kerusakan komponen-komponen terkait sistem mesin Motor Injeksi.</li><li>Penggantian suku cadang dan komponen-komponen yang aus dan habis masa pakainya.</li><li>Penyetelan kembali pengaturan sistem terkait kinerja mesin Motor Injeksi.</li><li>Harga order belum termasuk harga komponen, suku cadang, dan jasa perbaikan.</li></ol>",
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521509981/tuneup-02_qifzv4.png",
+        "__v": 0
+      },
+      {
+        "_id": "5d7b983ea174225c9e77d6bd",
+        "tag_id": "tuneupmotorkarburator",
+        "title": "Tune Up Motor Karburator",
+        "description": "Layanan Pengecekan dan Perawatan Motor Bermesin Karburator untuk Mengembalikan Performa Standarnya",
+        "fee_order": 50000,
+        "detail": "<ol><li>Pengecekan kondisi dan semua komponen terkait mesin Motor Karburator.</li><li>Pengukuran performa mesin Motor Karburator.</li><li>Perawatan kondisi komponen-komponen terkait sistem mesin Motor Karburator.</li><li>Perbaikan kerusakan komponen-komponen terkait sistem mesin Motor Karburator.</li><li>Penggantian suku cadang dan komponen-komponen yang aus dan habis masa pakainya.</li><li>Penyetelan kembali pengaturan sistem terkait kinerja mesin Motor Karburator.</li><li>Harga order belum termasuk harga komponen, suku cadang, dan jasa perbaikan.</li></ol>",
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521509981/tuneup-02_qifzv4.png",
+        "__v": 0
+      },
+      {
+        "_id": "5d7f127c383ee87638ad4a5e",
+        "tag_id": "gantiolimotor",
+        "title": "Ganti Oli Motor",
+        "description": "Layanan Penggantian Pelumas (Oli) Motor",
+        "fee_order": 15000,
+        "detail": "<ol><li>Layanan penggantian pelumas (oli) Motor di lokasi Pelanggan.</li><li>Harga order belum termasuk harga produk pelumas (oli), filter dan bahan habis pakai.</li><li>Merk dan harga oli disepakati antara Pelanggan dan Spesialis HEPICAR sebelum pengerjaan.</li></ol>",
+        "icon": "https://res.cloudinary.com/hepicar/image/upload/v1521508716/ganti_oil-02_gsvngv.png",
+        "__v": 0
+      }
+    ],
+    "upcoming": false,
+    "color": "#771BE4",
+    "image": "https://res.cloudinary.com/hepicar/image/upload/v1568381414/motorcycle-repair-centre-london_lzoep5.jpg",
+    "__v": 0
+  }
+]
